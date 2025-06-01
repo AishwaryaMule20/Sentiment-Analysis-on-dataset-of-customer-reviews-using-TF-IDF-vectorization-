@@ -86,4 +86,4 @@ Apply advanced models like Naive Bayes, SVM, or neural networks (LSTM, BERT).
 
 #OUTPUT
 
-Deploy as a web application with live input support.
+![Image](https://github.com/user-attachments/assets/36c92509-3fd2-44f6-88a9-99e466c90238)
